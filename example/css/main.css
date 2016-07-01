@@ -122,7 +122,7 @@ of those sections to manage the look and feel of the site. */
   margin: 0 auto;
   height: 100px;
   width: 100px;
-  border-radius: 5%;
+  border-radius: 50%;
   transition-property: all;
   transition-duration: 1s;
   transition-timing-function: ease-in;
